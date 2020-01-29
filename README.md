@@ -1,6 +1,6 @@
 # HackerOne Hacktivity Notify
 
-![hacktivity-notify-notify](https://user-images.githubusercontent.com/25837540/73323843-5f917400-427b-11ea-9f1c-e880bbac2d56.png)
+![hacktivity-notify-notify](https://user-images.githubusercontent.com/25837540/73328341-febe6780-428b-11ea-8f1c-e9365e645943.png)
 
 Get newest public disclosed HackerOne report notifications on your Desktop
 
